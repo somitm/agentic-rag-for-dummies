@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <a href="https://colab.research.google.com/gist/GiovanniPasq/d515af87582f4058dbbb54102f50b086/agentic_rag_for_dummies.ipynb">
+  <a href="https://colab.research.google.com/github/GiovanniPasq/agentic-rag-for-dummies/blob/main/Agentic_Rag_For_Dummies.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
 </p>
